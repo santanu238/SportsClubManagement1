@@ -1,2 +1,2 @@
-# SportsClubManagement1
+# SportsClubManagement
 my repository
